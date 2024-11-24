@@ -1,0 +1,4 @@
+Proyecto: Conversor de Temperatura y Longitud
+
+Descripción: Crear un programa que permita al usuario elegir entre convertir unidades de temperatura o de longitud. Cada tipo de conversión estará en un paquete separado con módulos y funciones específicas para las distintas unidades.
+
